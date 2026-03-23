@@ -85,10 +85,7 @@ Key Insight:
 Models Tested:
 
 - Logistic Regression
-- Decision Tree
 - Random Forest
-- SVM
-- KNN
 - XGBoost (Best)
 
 Evaluation Metrics:
